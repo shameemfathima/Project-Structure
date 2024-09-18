@@ -4,7 +4,8 @@ Subheading: -User authentication and profile management.
             - Product catalog with categories and search functionality. 
             - Shopping cart and checkout system.
 
-Project Overview: This project is an online e-commerce web application designed to provide a platform where users can browse products, add items to their cart, and make purchases. The application is built using a modern web development stack including React for the frontend and Node.js for the backend.
+Project Overview: 
+            This project is an online e-commerce web application designed to provide a platform where users can browse products, add items to their cart, and make purchases. The application is built using a modern web development stack including React for the frontend and Node.js for the backend.
 
 The project directory is organized as follows: 
    ├── src
@@ -26,7 +27,6 @@ The project directory is organized as follows:
    ├── package.json
    ├── .gitignore
 
-src contains all the application source code, tests contains the test cases, and public contains static files like HTML and icons.
 
 3) Content Description:
 
@@ -40,12 +40,12 @@ src contains all the application source code, tests contains the test cases, and
    App.js: The root component that contains the application layout.
    index.js: Entry point for the React application.
    
- 2.tests:
-   App.test.js: Unit tests for the App.js component.
-   ProductPage.test.js: Unit tests for the ProductPage.js component.
- 3.public:
-   index.html: The HTML template for the application.
-   favicon.ico: The icon used in the browser tab.
+   2.tests:
+      App.test.js: Unit tests for the App.js component.
+      ProductPage.test.js: Unit tests for the ProductPage.js component.
+   3.public:
+      index.html: The HTML template for the application.
+      favicon.ico: The icon used in the browser tab.
    README.md:
      The documentation for the project, providing an overview, structure, and file descriptions.
   package.json:
